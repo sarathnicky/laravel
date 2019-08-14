@@ -1,4 +1,8 @@
 <?php
+
+include "./vendor/autoload.php";
+
+
 /**
  * CodeIgniter
  *
