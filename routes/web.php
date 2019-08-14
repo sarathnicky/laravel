@@ -12,8 +12,7 @@
 */
 
 Route::get('/', function () {
-	echo "ok";
-    //return view('home');
+    return view('home');
 });
 
 //Route::get('/', 'CreatesController@home');
