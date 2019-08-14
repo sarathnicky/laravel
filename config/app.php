@@ -52,9 +52,7 @@ return [
     |
     */
 
-    //'url' => env('APP_URL', 'http://localhost'),
-	
-	'url' => env('APP_URL', 'https://sarathnicky-laravel.herokuapp.com/'),
+    'url' => env('APP_URL', 'http://localhost'),
 
     /*
     |--------------------------------------------------------------------------

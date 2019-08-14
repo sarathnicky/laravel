@@ -11,11 +11,11 @@
 |
 */
 
-/*Route::get('/', function () {
+Route::get('/', function () {
     return view('home');
-});*/
+});
 
-Route::get('/', 'CreatesController@home');
+//Route::get('/', 'CreatesController@home');
 
 Route::get('/create', 'CreatesController@create');
 
