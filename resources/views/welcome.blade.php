@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 
 <html>
+<div class="col-lg-12">
+<div class="col-lg-4">
+</div>
+<div class="col-lg-4">
 <h1>Enquiry Form</h1>
+</div>
+</div>
 </html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
