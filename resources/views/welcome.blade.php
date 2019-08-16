@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+
+<html>
+<h1>Enquiry Form</h1>
+</html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
         <meta charset="utf-8">
