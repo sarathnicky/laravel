@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 
 <html>
+<head>
+<script src="{{ asset('js/app.js') }}" defer></script>
+<link href="{{ asset('css/app.css') }}" rel="stylesheet">
+</head>
 <div class="col-lg-12">
 <div class="col-lg-4">
 </div>
